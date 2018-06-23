@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Info>
+  <NO>22</NO>
+  <SUM>7</SUM>
+  <watch>0</watch>
+  <AGV>
+    <AGV Num="0" BeginX="6" BeginY="2" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+    <AGV Num="1" BeginX="3" BeginY="10" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+    <AGV Num="2" BeginX="7" BeginY="8" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+    <AGV Num="3" BeginX="1" BeginY="1" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+    <AGV Num="4" BeginX="4" BeginY="8" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+    <AGV Num="5" BeginX="2" BeginY="0" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+    <AGV Num="6" BeginX="7" BeginY="3" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+  </AGV>
+  <AGV_info>
+    <AGV Num="0" BeginX="6" BeginY="2" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+    <AGV Num="1" BeginX="3" BeginY="10" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+    <AGV Num="2" BeginX="7" BeginY="8" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+    <AGV Num="3" BeginX="1" BeginY="1" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+    <AGV Num="4" BeginX="4" BeginY="8" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+    <AGV Num="5" BeginX="2" BeginY="0" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+    <AGV Num="6" BeginX="7" BeginY="3" StartLoc="" Direction="Up" State="free" Battery="100" EndX="" EndY="" DestX="" DestY="" Use="T" />
+  </AGV_info>
+</Info>
