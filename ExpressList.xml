@@ -2,10 +2,10 @@
 
 <ExpressList>
   <barcode0001 num="KA07535494831" destprovince="浙江" destnum="0"></barcode0001>
-  <barcode0002 num="KA07535493431" destprovince="湖南" destnum="1"></barcode0002>
-  <barcode0003 num="KA07535498231" destprovince="辽宁" destnum="2"></barcode0003>
-  <barcode0004 num="KA07535492531" destprovince="北京" destnum="0"></barcode0004>
-  <barcode0005 num="KA07535497931" destprovince="湖北" destnum="1"></barcode0005>
+  <barcode0002 num="KA07535497931" destprovince="湖南" destnum="2"></barcode0002>
+  <barcode0003 num="KA07535491731" destprovince="辽宁" destnum="2"></barcode0003>
+  <barcode0004 num="9900017540805" destprovince="北京" destnum="0"></barcode0004>
+  <barcode0005 num="KA07535493431" destprovince="湖北" destnum="1"></barcode0005>
   <barcode0006 num="KA07535496531" destprovince="广西" destnum="2"></barcode0006>
   <barcode0002 num="9900017540805" destprovince="重庆" destnum="0"></barcode0002>
 </ExpressList>
